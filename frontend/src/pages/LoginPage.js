@@ -55,9 +55,8 @@ const LoginPage = () => {
     <div className="auth-page">
       <div className="auth-card">
         <h1>Welcome back</h1>
-        <p className="auth-subtitle">Choose your preferred sign-in method</p>
+        {error && <div className="alert alert-error">{error}</div>}
 
-        
         {/* Tab 1: Email & Password */}
         {activeTab === 'email' && (
           <>
@@ -134,6 +133,15 @@ const LoginPage = () => {
             <small style={{ color: 'var(--color-muted)', fontSize: '0.8rem' }}>
               Protected by Google OAuth 2.0 Security
             </small>
+
+            <button
+              type="button"
+              className="btn btn-outline btn-full"
+              onClick={() => setActiveTab('email')}
+              style={{ marginTop: '0.5rem' }}
+            >
+              ✉️ Sign in with Email instead
+            </button>
           </div>
         )}
 
