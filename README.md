@@ -147,3 +147,6 @@ User logs in   → bcrypt.compare(submitted, stored_hash)
 | Frontend | React 19 | UI components |
 | HTTP Client | Axios | API requests from React |
 | Routing | React Router v7 | Client-side navigation |
+
+
+[![Architecture diagram of abhisheksinghcodebase/authentication-system-mern](https://gitdiagram.com/abhisheksinghcodebase/authentication-system-mern/diagram.png)](https://gitdiagram.com/abhisheksinghcodebase/authentication-system-mern?utm_source=readme&utm_medium=picture)
