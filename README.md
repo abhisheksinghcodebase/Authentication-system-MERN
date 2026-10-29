@@ -8,6 +8,8 @@ A clean, educational full-stack authentication system built with:
 
 ---
 
+[![Architecture diagram of abhisheksinghcodebase/authentication-system-mern](https://gitdiagram.com/abhisheksinghcodebase/authentication-system-mern/diagram.png)](https://gitdiagram.com/abhisheksinghcodebase/authentication-system-mern?utm_source=readme&utm_medium=picture)
+
 ## 📁 Project Structure
 
 ```
@@ -149,4 +151,14 @@ User logs in   → bcrypt.compare(submitted, stored_hash)
 | Routing | React Router v7 | Client-side navigation |
 
 
-[![Architecture diagram of abhisheksinghcodebase/authentication-system-mern](https://gitdiagram.com/abhisheksinghcodebase/authentication-system-mern/diagram.png)](https://gitdiagram.com/abhisheksinghcodebase/authentication-system-mern?utm_source=readme&utm_medium=picture)
+### 🌐 Connect With Me
+
+- **GitHub:** [@abhisheksinghcodebase](https://github.com/abhisheksinghcodebase)
+- **Portfolio:** [abhisheksinghcode.xyz](https://abhisheksinghcode.xyz)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abhisheksinghcode)
+
+### 🚀 My Development Philosophy
+
+I'm continuously learning, experimenting with new technologies, and building projects to improve my software development skills.
+
+*Building, learning, and improving — one project at a time.*
